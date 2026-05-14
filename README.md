@@ -270,6 +270,11 @@ Italy
    *General theory of the viscosity of liquids and solids from nonaffine particle motions*,  
    *Physical Review E* **108**, 044101 (2023).  
    DOI: https://doi.org/10.1103/PhysRevE.108.044101
+   
+ 5. R. M. Elder, A. Zaccone, and T. W. Sirk,  
+   *Identifying Nonaffine Softening Modes in Glassy Polymer Networks: A Pathway to Chemical Design*,  
+   *ACS Macro Letters* **8**, 1160–1165 (2019).  
+   DOI: https://doi.org/10.1021/acsmacrolett.9b00505
 
 ---
 
