@@ -119,8 +119,8 @@ G^*(\Omega) = G'(\Omega) + iG''(\Omega)
 
 where:
 
-- \(G'(\Omega)\) is the storage modulus
-- \(G''(\Omega)\) is the loss modulus
+- $G'(\Omega)$ is the storage modulus
+- $G''(\Omega)$ is the loss modulus
 
 The viscoelastic response is evaluated over a broad frequency range.
 
