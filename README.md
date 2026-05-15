@@ -158,6 +158,14 @@ the friction parameter was estimated (for the particular epoxy polymer glass stu
 
 ```math
 \nu = 5.6 \times 10^{13} \ \mathrm{kg \ s^{-1}}
+```
+
+The precise value of the friction parameter depends on the
+atomistic model, force field, temperature, and simulation protocol.
+
+In practice, \( \nu \) is calibrated by matching the NALD prediction
+of the viscoelastic modulus with nonequilibrium molecular dynamics
+oscillatory shear calculations in the high-frequency regime.
 
 ---
 
